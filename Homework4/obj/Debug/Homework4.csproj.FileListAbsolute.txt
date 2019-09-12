@@ -1,0 +1,6 @@
+C:\Users\S89604\source\repos\Test\Homework4\bin\Debug\Homework4.exe.config
+C:\Users\S89604\source\repos\Test\Homework4\bin\Debug\Homework4.exe
+C:\Users\S89604\source\repos\Test\Homework4\bin\Debug\Homework4.pdb
+C:\Users\S89604\source\repos\Test\Homework4\obj\Debug\Homework4.csproj.CoreCompileInputs.cache
+C:\Users\S89604\source\repos\Test\Homework4\obj\Debug\Homework4.exe
+C:\Users\S89604\source\repos\Test\Homework4\obj\Debug\Homework4.pdb
